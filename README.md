@@ -1,20 +1,16 @@
 <div align="center">
 <h1>DATS-ASSFormer: Domain Adaptation Teacher Student Adaptively semantic segmentation Transformer</h1>
 
-<style>
-  .author { color: blue; font-size: 1.2em; }
-  .corresponding-author::after { content: "✉"; }
-</style>
-
 <div>
-    <a class="author">Yuchen Zhang<sup>1,5</sup></a>
-    <a class="author">Xingan Hao<sup>2,3</sup></a>
-    <a class="author">Feilong Li<sup>1</sup></a>
-    <a class="author">Zexi Wang<sup>1,6</sup></a>
-    <a class="author">Dongxiang Li<sup>1</sup></a>
-    <a class="author">Mei Li<sup>1</sup></a>
-    <a class="author corresponding-author">Rui Mao<sup>1,4</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Yuchen Zhang<sup>1,5</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Xingan Hao<sup>2,3</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Feilong Li<sup>1</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Zexi Wang<sup>1,6</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Dongxiang Li<sup>1</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Mei Li<sup>1</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Rui Mao<sup>1,4</sup><sup>✉</sup></a>
 </div>
+
 
   
 
