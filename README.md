@@ -14,7 +14,7 @@
 
   
 
-
+</div>
 
 <div>
     <sup>1</sup>College of Information Engineering, Northwest A&F University
