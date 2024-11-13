@@ -1,12 +1,6 @@
 <div align="center">
 <h1>Unsupervised Domain Adaptation Semantic Segmentation Method for Wheat Disease Detection Based on UAV Multispectral Images</h1>
 
-
-
-<center>:fire: Details of DATS-ASSFormer will be released. Stay tuned :beers: :+1: </center>
-
-
-
 <div>
     <a style="color: blue; font-size: 1.2em;">Yuchen Zhang<sup>1,5</sup></a>
     <a style="color: blue; font-size: 1.2em;">Xingan Hao<sup>2,3</sup></a>
@@ -45,4 +39,8 @@
 
 
 This study introduces DATS-ASSFormer, a novel Unsupervised Domain Adaptation method for detecting wheat diseases from UAV multispectral images. And a dataset named NWAFU-WDRSD was developed, encompassing 8,628 high-resolution images of the three predominant wheat diseases.
+
+
+
+<center>:fire: Details of DATS-ASSFormer will be released. Stay tuned :beers: :+1: </center>
 
