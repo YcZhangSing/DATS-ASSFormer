@@ -20,6 +20,7 @@
     <sup>1</sup>College of Information Engineering, Northwest A&F University
     <br>
     <sup>2</sup>College of Plant Protection, Northwest A&F University
+  <br>
     <sup>3</sup>State Key Laboratory for Crop Stress Resistance and High-Efficiency Production
     <br>
     <sup>4</sup>Shaanxi Engineering Research Center of Agricultural Information Intelligent Perception and Analysis
