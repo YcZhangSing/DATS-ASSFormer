@@ -1,5 +1,3 @@
-# DATS-ASSFormer: Domain Adaptation Teacher Student Adaptively semantic segmentation Transformer
-
 <div align="center">
 <h1>Unsupervised Domain Adaptation Semantic Segmentation Method for Wheat Disease Detection Based on UAV Multispectral Images</h1>
 <div>
