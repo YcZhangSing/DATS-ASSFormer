@@ -1,7 +1,9 @@
 <div align="center">
+
 <h1>Unsupervised Domain Adaptation Semantic Segmentation Method for Wheat Disease Detection Based on UAV Multispectral Images</h1>
+
 <div>
-    <a style="color: blue; font-size: 1.2em;">Yuchen Zhang<sup>1,5</sup></a>
+    <a href="https://scholar.google.com/citations?user=dfC-M2oAAAAJ&hl=zh-CN" style="color: blue; font-size: 1.2em;">Yuchen Zhang<sup>1,5</sup></a>
     <a style="color: blue; font-size: 1.2em;">Xingan Hao<sup>2,3</sup></a>
     <a style="color: blue; font-size: 1.2em;">Feilong Li<sup>5</sup></a>
     <a style="color: blue; font-size: 1.2em;">Zexi Wang<sup>5,6</sup></a>
@@ -10,24 +12,17 @@
     <a style="color: blue; font-size: 1.2em;">Rui Mao<sup>5,4</sup><sup>✉</sup></a>
 </div>
 
+<br>
+
+<div align="center">
+    <sup>1</sup><i>School of Software Engineering, Xi’an Jiao-tong University</i><br>
+    <sup>2</sup><i>College of Plant Protection, Northwest A&amp;F University</i><br>
+    <sup>3</sup><i>State Key Laboratory for Crop Stress Resistance and High-Efficiency Production</i><br>
+    <sup>4</sup><i>Shaanxi Engineering Research Center of Agricultural Information Intelligent Perception and Analysis</i><br>
+    <sup>5</sup><i>College of Information Engineering, Northwest A&amp;F University</i><br>
+    <sup>6</sup><i>School of Microelectronics, Xidian University</i>
 </div>
 
-
-
-
-
-<div>
-    <sup>1</sup>School of Software Engineering, Xi’an Jiao-tong University
-    <br>
-    <sup>2</sup>College of Plant Protection, Northwest A&F University
-  <br>
-    <sup>3</sup>State Key Laboratory for Crop Stress Resistance and High-Efficiency Production
-    <br>
-    <sup>4</sup>Shaanxi Engineering Research Center of Agricultural Information Intelligent Perception and Analysis
-    <br>
-    <sup>5</sup>College of Information Engineering, Northwest A&F University
-    <br>
-    <sup>6</sup>School of Microelectronics, Xidian University
 </div>
 
 
