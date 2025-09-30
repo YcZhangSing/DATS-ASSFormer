@@ -1,4 +1,47 @@
 # DATS-ASSFormer: Domain Adaptation Teacher Student Adaptively semantic segmentation Transformer
+
+<div align="center">
+<h1>Unsupervised Domain Adaptation Semantic Segmentation Method for Wheat Disease Detection Based on UAV Multispectral Images</h1>
+<div>
+    <a style="color: blue; font-size: 1.2em;">Yuchen Zhang<sup>1,5</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Xingan Hao<sup>2,3</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Feilong Li<sup>1</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Zexi Wang<sup>1,6</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Dongxiang Li<sup>1</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Mei Li<sup>1</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Rui Mao<sup>1,4</sup><sup>✉</sup></a>
+</div>
+
+
+
+  
+
+</div>
+
+<div>
+    <sup>1</sup>College of Information Engineering, Northwest A&F University
+    <br>
+    <sup>2</sup>College of Plant Protection, Northwest A&F University
+  <br>
+    <sup>3</sup>State Key Laboratory for Crop Stress Resistance and High-Efficiency Production
+    <br>
+    <sup>4</sup>Shaanxi Engineering Research Center of Agricultural Information Intelligent Perception and Analysis
+    <br>
+    <sup>5</sup>School of Software Engineering, Xi’an Jiao-tong University
+    <br>
+    <sup>6</sup>School of Microelectronics, Xidian University
+</div>
+
+
+<div align="center">
+</center>
+
+This study introduces DATS-ASSFormer, a novel Unsupervised Domain Adaptation method for detecting wheat diseases from UAV multispectral images. And a dataset named NWAFU-WDRSD was developed, encompassing 8,628 high-resolution images of the three predominant wheat diseases.
+
+
+
+<center>:fire: Details of DATS-ASSFormer will be released. Stay tuned :beers: :+1: </center>
+
 ![img](resources/DataBase.png)
 ![img](resources/DATS-ASSFormer.png)
 
@@ -68,3 +111,21 @@ The public release of NWAFU-WDRSD is imminent.
 ![img](resources/res1.png)
 
 ![img](resources/res2.png)
+
+## Citation
+
+If our work is helpful to you, please cite:
+
+```
+@article{ZHANG2025110473,
+title = {Unsupervised domain adaptation semantic segmentation method for wheat disease detection based on UAV multispectral images},
+author = {Yuchen Zhang and Xingan Hao and Feilong Li and Zexi Wang and Dongxiang Li and Mei Li and Rui Mao},
+journal = {Computers and Electronics in Agriculture},
+volume = {236},
+pages = {110473},
+year = {2025},
+issn = {0168-1699},
+doi = {https://doi.org/10.1016/j.compag.2025.110473},
+}
+```
+
