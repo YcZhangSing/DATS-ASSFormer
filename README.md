@@ -31,14 +31,8 @@
 </div>
 
 
-<div align="center">
-</center>
 
 This study introduces DATS-ASSFormer, a novel Unsupervised Domain Adaptation method for detecting wheat diseases from UAV multispectral images. And a dataset named NWAFU-WDRSD was developed, encompassing 8,628 high-resolution images of the three predominant wheat diseases.
-
-
-
-<center>:fire: Details of DATS-ASSFormer will be released. Stay tuned :beers: :+1: </center>
 
 ![img](resources/DataBase.png)
 ![img](resources/DATS-ASSFormer.png)
