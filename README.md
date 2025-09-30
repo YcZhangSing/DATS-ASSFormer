@@ -3,21 +3,21 @@
 <div>
     <a style="color: blue; font-size: 1.2em;">Yuchen Zhang<sup>1,5</sup></a>
     <a style="color: blue; font-size: 1.2em;">Xingan Hao<sup>2,3</sup></a>
-    <a style="color: blue; font-size: 1.2em;">Feilong Li<sup>1</sup></a>
-    <a style="color: blue; font-size: 1.2em;">Zexi Wang<sup>1,6</sup></a>
-    <a style="color: blue; font-size: 1.2em;">Dongxiang Li<sup>1</sup></a>
-    <a style="color: blue; font-size: 1.2em;">Mei Li<sup>1</sup></a>
-    <a style="color: blue; font-size: 1.2em;">Rui Mao<sup>1,4</sup><sup>✉</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Feilong Li<sup>5</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Zexi Wang<sup>5,6</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Dongxiang Li<sup>5</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Mei Li<sup>5</sup></a>
+    <a style="color: blue; font-size: 1.2em;">Rui Mao<sup>5,4</sup><sup>✉</sup></a>
+</div>
+
 </div>
 
 
 
-  
 
-</div>
 
 <div>
-    <sup>1</sup>College of Information Engineering, Northwest A&F University
+    <sup>1</sup>School of Software Engineering, Xi’an Jiao-tong University
     <br>
     <sup>2</sup>College of Plant Protection, Northwest A&F University
   <br>
@@ -25,7 +25,7 @@
     <br>
     <sup>4</sup>Shaanxi Engineering Research Center of Agricultural Information Intelligent Perception and Analysis
     <br>
-    <sup>5</sup>School of Software Engineering, Xi’an Jiao-tong University
+    <sup>5</sup>College of Information Engineering, Northwest A&F University
     <br>
     <sup>6</sup>School of Microelectronics, Xidian University
 </div>
